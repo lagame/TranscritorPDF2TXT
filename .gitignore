@@ -1,0 +1,15 @@
+# Pasta do Ambiente Virtual
+venv/
+
+# Arquivos de Chave de Serviço (SECRETO!)
+*.json
+
+# Arquivos de entrada e saída
+*.zip
+*.docx
+
+# Pasta de imagens descompactadas
+imagens_extraidas/
+
+# Pastas de cache do Python
+__pycache__/
