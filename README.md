@@ -26,7 +26,7 @@ Este é um script Python que automatiza o processo de extração de texto de um 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/lagame/TranscritorPDF2TXT.git](https://github.com/lagame/TranscritorPDF2TXT.git)
+    git clone https://github.com/lagame/TranscritorPDF2TXT.git
     cd TranscritorPDF2TXT
     ```
 
